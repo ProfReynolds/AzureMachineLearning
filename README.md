@@ -1,0 +1,2 @@
+# AzureMachineLearning
+Azure Machine Learning is a cloud predictive analytics service that makes it possible to quickly create and deploy predictive models as analytics solutions. Getting started is easy. The first working prototype is an easy evening project. But Azure Machine Learning will grow to extremely complex projects. This session will demonstrate initial projects utilizing multiple data science principals.
